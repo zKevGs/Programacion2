@@ -1,0 +1,7 @@
+C:\Users\ktreboliniceriotti\Desktop\prog2.v2\Procedimientos\Procedimientos\bin\Debug\Procedimientos.exe.config
+C:\Users\ktreboliniceriotti\Desktop\prog2.v2\Procedimientos\Procedimientos\bin\Debug\Procedimientos.exe
+C:\Users\ktreboliniceriotti\Desktop\prog2.v2\Procedimientos\Procedimientos\bin\Debug\Procedimientos.pdb
+C:\Users\ktreboliniceriotti\Desktop\prog2.v2\Procedimientos\Procedimientos\obj\Debug\Procedimientos.csproj.AssemblyReference.cache
+C:\Users\ktreboliniceriotti\Desktop\prog2.v2\Procedimientos\Procedimientos\obj\Debug\Procedimientos.csproj.CoreCompileInputs.cache
+C:\Users\ktreboliniceriotti\Desktop\prog2.v2\Procedimientos\Procedimientos\obj\Debug\Procedimientos.exe
+C:\Users\ktreboliniceriotti\Desktop\prog2.v2\Procedimientos\Procedimientos\obj\Debug\Procedimientos.pdb
